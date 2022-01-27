@@ -18,15 +18,7 @@ git remote add origin git@github.com:CAMINHO-COPIADO-DO-GITHUB-SSH
 git add .
 git commit -m 'MENSAGEM'
 git push origin master
- to join this conversation on GitHub. Already have an account? Sign in to comment
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
+
+
+oi
+
